@@ -1,7 +1,7 @@
 # Dining Philosophers Project
 
 Team number: 25
-Members: Angel Le
+Members: Angel Le, Jiajie Lu
 
 
 ## Compile and run
