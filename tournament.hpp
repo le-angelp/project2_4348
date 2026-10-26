@@ -2,7 +2,11 @@
 #define TOURNAMENT_TREE_LOCK_HPP
 
 #include "petersonLock.hpp"
+#include <cstddef>
 #include <memory>
+#include <new>
+#include <utility>
+#include <vector>
 
 class TournamentTreeLock {
 public:
